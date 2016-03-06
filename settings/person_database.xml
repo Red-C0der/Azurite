@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<persones lastrid="10" lastpersonid="0">
+        <heidenreich>
+            <person id="0">
+                <official>
+                    <firstname rid="0" ></firstname>
+                </official>
+                <personal>
+                    <singleanswer>
+                        <question rid="1" name="fav_food" ref="">melons</question>
+                        <question rid="2" name="fav_music" ref="">dubstep</question>
+                    </singleanswer>
+                </personal>
+                <numbers>
+                    <number rid="3" identifier="telefone" type="private" >0000000</number>
+                    <number rid="4" identifier="telefone" type="school" >0000000</number>
+                </numbers>
+                <addresses>
+                    <address rid="5" identifier="street" type="home" >Street 1, Germany, Europe</address>
+                    <address rid="6" identifier="street" type="sportsclub" >Somewhere, Germany, Europe</address>
+                    <address rid="7" identifier="street" type="school" >Here, Germany, Europe</address>
+                </addresses>
+                <hsa>
+                    <visible>
+                        <haircolor>brown</haircolor>
+                        <hairlength>short</hairlength>
+                        <haircut>none</haircut>
+                    </visible>
+                    <special>
+                        <strength>30</strength>
+                        <perception>50</perception>
+                        <endurance>30</endurance>
+                        <charisma>50</charisma>
+                        <intelligence>70</intelligence>
+                        <agility>60</agility>
+                        <luck>40</luck>
+                    </special>
+                </hsa>
+                <activities>
+                    <official>
+                        <job />
+                        <school rid="8" ref="7{::}address, 4{::}number" bool="True"/>
+                    </official>
+                    <private>
+                        <hobbies>
+                            <hobbie rid="9" name="tennis" ref="6{::}address"/>
+                            <hobbie rid="10" name="" />
+                        </hobbies>
+                    </private>
+                </activities>
+            </person>
+        </heidenreich>
+
+
+        <heidenreich>
+            <person firstname="" midname="" lastname="" nickname="" age="" gender="" birthday="" address="" inrelationship="" relationshipperson="" favouritecolor="" favouritesong="" favouriteproductbrand="" haircolor="" eyecolor="" size="" smoking="" favouritemusicstyle="" hairsize="" favouritesport="" biggestfear="" favouritebook="" favouritefood="" favouritetvshow="" favouriteradiostation="" favouritefilm="" favouritedrink="" oftenusedwords="" humantype="" favouritecar="" currentcar="" school="" threewishes="" glasshalvefullorhalveempty="" rightlefthanded="" favouritefastfoodbrand="" brotherorsister="" addiction="" dancing="" favouriteschoollesson="" money="" countrysvisited="" favouriteflowers="" favouritecartoonfigure="" favouritecandy="" instrument="" placeofbirth="" fooddontlike="" thingsdontlike="" glassesorcontactlenses="" favouriteelement="" favouritemagasin="" favouritemonth=""  />
+        </heidenreich>
+    </persones>

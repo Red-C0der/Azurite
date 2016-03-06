@@ -1,0 +1,15 @@
+
+
+Python Library's:
+    os
+    Crypto
+    base64
+    time
+    inspect
+    ConfigParser
+    time
+    sys
+    nltk
+    PyAudio
+    termcolor
+

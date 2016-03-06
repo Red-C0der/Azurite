@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar>
+
+
+
+    <LANGUAGE>
+        <INFO sentence_sequence_AUSSAGE="subject:verb:object,object:verb:subject" sentence_sequence_question="verb:subject:object" sentence_sequence_command="verb:subject"/>
+    </LANGUAGE>
+    <subjects>
+        <subject id="uhr" function=""/>
+    </subjects>
+    <verbs>
+        <verb id="sein" conjunctions="bin:bist:ist:sind:seid:sind"/>
+    </verbs>
+    <objects>
+
+    </objects>
+</grammar>
