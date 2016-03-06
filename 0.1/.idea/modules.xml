@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Azurite.iml" filepath="$PROJECT_DIR$/.idea/Azurite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Azurite-Docs/.idea/Azurite-Docs.iml" filepath="$PROJECT_DIR$/../Azurite-Docs/.idea/Azurite-Docs.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Jarvis/NEW/JarvisFULL/.idea/JarvisFULL.iml" filepath="$USER_HOME$/Desktop/Jarvis/NEW/JarvisFULL/.idea/JarvisFULL.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/X2-O/.idea/X2.iml" filepath="$USER_HOME$/Desktop/X2-O/.idea/X2.iml" />
+    </modules>
+  </component>
+</project>
