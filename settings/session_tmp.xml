@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-        <session>
-            <loaded_modules>
-                <module id="moduleloader" location="system/moduleloader.py" active="True" />
-            </loaded_modules>
-        </session>

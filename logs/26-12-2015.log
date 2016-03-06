@@ -1,2 +1,0 @@
-26/12/2015 02:06:18 | INFO: File: configparser.py | Function: getattrib | Message: Trying to get value of attribute from configfile with arguments: path=[security/securitykey], attrib_name=[val], filename=[sys.xml], filepath=[../settings/], debug=[1]!
-26/12/2015 02:06:18 | ERROR: File: configparser.py | Function: getattrib | Message: SyntaxError: Syntax error in python code!
